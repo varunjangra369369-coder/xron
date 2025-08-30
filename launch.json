@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "https://github.com/varunjangra369369-coder/varun-jangra.git",
+            "request": "launch",
+            "url": "https://github.com/varunjangra369369-coder/varun-jangra.git"
+        }
+    ]
+}
